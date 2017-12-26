@@ -1,4 +1,5 @@
 obj-m += abckernel.o
+obj-m += chardev.o
 abckernel-objs := start.o stop.o
 
 all:
