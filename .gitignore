@@ -5,3 +5,5 @@
 *.cmd
 modules.order
 *.symvers
+*.exe
+*.exec
